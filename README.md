@@ -1,2 +1,2 @@
 # TestGit
-this is made to check the repository
+to check the functionality
